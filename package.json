@@ -3,7 +3,7 @@
     ["dft.py", "dft.py"],
     ["dftclass.py", "dftclass.py"],
     ["window.py", "window.py"],
-    ["polar.py", "ploar.py"]
+    ["polar.py", "polar.py"]
   ],
   "deps": [
   ],
